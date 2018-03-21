@@ -8,9 +8,13 @@ The Port of Oakland operates on almost 500 hectares of space and is one of the l
 
 This type of loose freight is difficult to deal with as the port operators need to decide when and how to ship it. The port operators are most efficient when trucks are operating at capacity, but with different size loose materials coming in to different destinations maintaining efficiency is difficult.  Table 2.1 shows a partial day manifest for Tuesday, December 8th. <br>
 
-| Name  | Destination | Length (feet)
+| Name  | Destination | Length (feet) |
 | ------------- | ------------- | ------------- |
 | Chu Household Good  | San Francisco, CA  | 28  |
-| Chu Household Good  | San Francisco, CA  | 28  |
-| Chu Household Good  | San Francisco, CA  | 28  |
-| Chu Household Good  | San Francisco, CA  | 28  |
+| S.R. Batteries| New York, NY  | 12 |
+| MIA BSA Tents  | Miami, FL  | 8  |
+| Bat bamboo  | Louisville, KY  | 12  |
+| Chalk  | San Francisco, CA  | 22  |
+| D. Handbags  | Oklahoma City, Oklahoma  | 8.2  |
+
+ <br>Table 2.1: Loose freight Manifest, Tuesday, December 8th, 2015<br>
