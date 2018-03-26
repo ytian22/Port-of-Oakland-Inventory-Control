@@ -1,4 +1,4 @@
-# Port of Oakland Inventory Control
+# Port of Oakland Inventory Control (Jan 2018)
 The jupyter notebook shows the process of Monte-Carlo and Bootstrapping simulations and hypothesis tests on 4,989 observations to evaluate the statistical significance for a new inventory-controlling system. <br>
 
 ### Business
